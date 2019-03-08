@@ -69,6 +69,8 @@
     <plugin name="cordova-plugin-ble-central" spec="^1.1.4">
         <variable name="BLUETOOTH_USAGE_DESCRIPTION" value="Bluetooth development purposes" />
     </plugin>
+    <plugin name="cordova-plugin-ble" />
+    
     <plugin name="cordova-plugin-camera" spec="^3.0.0">
         <variable name="CAMERA_USAGE_DESCRIPTION" value="Camera used for development purposes" />
         <variable name="PHOTOLIBRARY_USAGE_DESCRIPTION" value=" " />
